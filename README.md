@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Avi Mathur!
 
-🎓 Final-year B.Tech student in **Electrical and Computer Engineering with a minor in Communication** at **Shiv Nadar University**.  
+🎓 Final-year B.Tech student in **Electrical and Computer Engineering** at **Shiv Nadar University**.  
 💻 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Deep Learning** - especially **transformer architectures** and **neural networks**.  
 🚀 I love building intelligent systems that merge algorithms with creativity and real-world applications.
 
@@ -9,7 +9,7 @@
 - 👁️ **YOLO-based Signature Detection** - Fine-tuned YOLO11n for object detection and achieved mAP50 ≈ 0.995  
 - 😷 **Face Mask Detection & Recognition** - Combined segmentation + CNN classification for smart vision systems  
 - ⚙️ **Physics-Informed Neural Network (PINN)** - Modeled PDEs through data-driven neural approximations
-- 🧩 **Cache Simulator (C++)** - Multi-level cache system (direct-mapped, set-associative, fully associative) with LRU replacement; developed under **Prof. Venkatnarayan Hariharan**  
+- 🧩 **Cache Simulator (C++)** - Multi-level cache system (set-associative) with LRU replacement; developed under **Prof. Venkatnarayan Hariharan**  
 - 🚗 **Autonomous Line-Following Car** - Hardware-meets-AI with path planning via A* and PID tuning  
 
 ### 🧰 Tech Stack
