@@ -1,11 +1,12 @@
-# 👋 Hey there, I'm Avi Mathur!
+# Hey there, I'm Avi Mathur!
 
 🎓 Final-year B.Tech student in **Electrical and Computer Engineering** at **Shiv Nadar University**.  
 💻 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Deep Learning** - especially **transformer architectures** and **neural networks**.  
 🚀 I love building intelligent systems that merge algorithms with creativity and real-world applications.
 
 ### 🔬 What I’ve Built
-- 🧠 **Mini GPT (Transformer)** - Implemented a 2-layer transformer for text generation using PyTorch  
+- 🧠 **Mini GPT (Transformer)** - Implemented a 2-layer transformer for text generation using PyTorch
+- ⭐ **Denoising Diffusion Probabilistic Model (DDPM)** - Modern diffusion model from scratch trained on CIFAR-10
 - 👁️ **YOLO-based Signature Detection** - Fine-tuned YOLO11n for object detection and achieved mAP50 ≈ 0.995  
 - 😷 **Face Mask Detection & Recognition** - Combined segmentation + CNN classification for smart vision systems  
 - ⚙️ **Physics-Informed Neural Network (PINN)** - Modeled PDEs through data-driven neural approximations
@@ -23,6 +24,4 @@
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AviMathur-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avi-mathur-ba1b96260/)  
 
----
 
-⭐ **"Teaching machines to think - one model at a time."**
