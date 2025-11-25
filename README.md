@@ -1,8 +1,8 @@
-# Hey there, I'm Avi Mathur!
+# ♾️ Hi, I'm Avi Mathur!
 
 🎓 Final-year B.Tech student in **Electrical and Computer Engineering** at **Shiv Nadar University**.  
-💻 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Deep Learning** - especially **transformer architectures** and **neural networks**.  
-🚀 I love building intelligent systems that merge algorithms with creativity and real-world applications.
+🚀 Passionate about **Artificial Intelligence**, **Machine Learning**, and anything Space-related!  
+📺 When I'm not coding, I'm playing cricket, badminton, reading murder mysteries or watching comic-book movies!
 
 ### 🔬 What I’ve Built
 - 🧠 **Mini GPT (Transformer)** - Implemented a 2-layer transformer for text generation using PyTorch
@@ -10,7 +10,7 @@
 - 👁️ **YOLO-based Signature Detection** - Fine-tuned YOLO11n for object detection and achieved mAP50 ≈ 0.995  
 - 😷 **Face Mask Detection & Recognition** - Combined segmentation + CNN classification for smart vision systems  
 - ⚙️ **Physics-Informed Neural Network (PINN)** - Modeled PDEs through data-driven neural approximations
-- 🧩 **Cache Simulator (C++)** - Multi-level cache system (set-associative) with LRU replacement; developed under **Prof. Venkatnarayan Hariharan**  
+- 🧩 **Cache Simulator (C++)** - Multi-level cache system (set-associative) with LRU replacement and writeback
 - 🚗 **Autonomous Line-Following Car** - Hardware-meets-AI with path planning via A* and PID tuning  
 
 ### 🧰 Tech Stack
