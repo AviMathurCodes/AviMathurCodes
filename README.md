@@ -16,7 +16,7 @@
 ### 🧰 Tech Stack
 `Python` • `PyTorch` • `TensorFlow` • `Keras` • `OpenCV` • `C++` • `Scikit-learn` • `SQL`  
 
-### 🌱 What I'm Exploring
+### 🚀 What I'm Exploring
 - Generative AI and transformer optimization  
 - Transfer learning and interpretability in deep learning  
 - Real-world applications of AI in data science and imaging  
