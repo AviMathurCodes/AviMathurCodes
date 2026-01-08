@@ -1,8 +1,8 @@
 # ♾️ Hi, I'm Avi Mathur!
 
-🎓 Final-year B.Tech student in Electrical & Computer Engineering at Shiv Nadar University.  
-🚀 Passionate about Artificial Intelligence, Machine Learning, and anything Space-related <3  
-📺 When I'm not coding, I'm playing cricket, badminton, reading murder mysteries or watching sci-fi movies :)  
+- Final-year B.Tech student in Electrical & Computer Engineering at Shiv Nadar University.  
+- Passionate about Artificial Intelligence, Machine Learning, and anything Space-related <3  
+- When I'm not coding, I'm playing cricket, badminton, reading murder mysteries or watching sci-fi movies :)  
 
 ### 🔬 What I’ve Built
 - **Mini GPT (Transformer)** - Implemented a 2-layer transformer for text generation using PyTorch
